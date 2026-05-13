@@ -1,9 +1,8 @@
 <div align="center">
 
 ## Hi there 👋
-**안녕하세요 저는 김지민입니다**
+**안녕하세요, 비전공자로 시작해 매일 한 줄씩 성장하고 있는 개발자 김지민입니다 🌱**
 
-**성장하는 개발자**
 
 <br/>
 
@@ -44,18 +43,6 @@
 [![Blog](https://img.shields.io/badge/Blog-FFB3C6?style=flat-square&logo=rss&logoColor=white)](https://coding-z.inblog.io)
 https://coding-z.inblog.io
 
----
 
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rmfdnjf98&show_icons=true&theme=graywhite&bg_color=FFF9F9&title_color=C9A0A0&icon_color=C9B8F0&text_color=555555&border_color=F0E0E0)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmfdnjf98&layout=compact&theme=graywhite&bg_color=FFF9F9&title_color=C9A0A0&text_color=555555&border_color=F0E0E0)
-
----
-
-### 🎇 Hits
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frmfdnjf98&count_bg=%23FFB3C6&title_bg=%23C9B8F0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
